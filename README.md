@@ -8,3 +8,5 @@ Esto es una prueba a ver que pasa
 Porque la verdad es raro todo esto
 
 cosa mandinga
+
+prueba desde el CLion
