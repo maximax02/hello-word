@@ -10,3 +10,5 @@ Porque la verdad es raro todo esto
 cosa mandinga
 
 prueba desde el CLion
+
+no paso nada
